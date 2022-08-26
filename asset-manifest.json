@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.929c5bc4.css",
+    "main.js": "/static/js/main.a4b608d8.js",
+    "static/media/BottomeIphone.svg": "/static/media/BottomeIphone.417935eadd819a7f610bdc0bdb4d23a8.svg",
+    "static/media/Iphone.svg": "/static/media/Iphone.369f0a00aad572ad4d87938cf6cb3849.svg",
+    "static/media/VideoImag.svg": "/static/media/VideoImag.8a9cd214a9d794a9a732.svg",
+    "static/media/Slider3.svg": "/static/media/Slider3.9270178c200410a003abb312c940cdc8.svg",
+    "static/media/HalfIphone.svg": "/static/media/HalfIphone.5494cae0cad57f12ec6be10aa8bfc858.svg",
+    "static/media/Slider2.svg": "/static/media/Slider2.38a14a802580ae75f732c9bb51acf2b0.svg",
+    "static/media/Image4.svg": "/static/media/Image4.8fef0c6a0dd50b720c96a114d8393b38.svg",
+    "static/media/Sections.svg": "/static/media/Sections.5c00b0b779554bf590de8a131e58a6b0.svg",
+    "static/media/Logo.svg": "/static/media/Logo.dea683b01dff52b4538c828ae9db0b0b.svg",
+    "static/media/BottomApple.svg": "/static/media/BottomApple.8cba5b8630dda2a0c0ee48098149fce0.svg",
+    "static/media/ApplePlay.svg": "/static/media/ApplePlay.ed6534a850caf9798caf2136e79aa3e4.svg",
+    "static/media/BottomGoogle.svg": "/static/media/BottomGoogle.77b8c11cd09669c5a501caf8e748bdfb.svg",
+    "static/media/GooglePlay.svg": "/static/media/GooglePlay.3fc7091915e2a272fa870e6a9ccfe60a.svg",
+    "static/media/Slider1.svg": "/static/media/Slider1.d6c72181e51c92039d1aee53f316bb5f.svg",
+    "static/media/Users.svg": "/static/media/Users.35409ba687f15b23fef61b2bb50bcf5f.svg",
+    "static/media/Friends.svg": "/static/media/Friends.57da4475daeda8cbfc62a238ed8a07dd.svg",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "static/media/Chat.svg": "/static/media/Chat.7b9fed7a982089466bc76ce889273c7e.svg",
+    "static/media/Circle2.svg": "/static/media/Circle2.ebe68645fbb52cdee21aa4b0592a49e5.svg",
+    "static/media/World.svg": "/static/media/World.8478a64c4e529553e42a19eb7fa45bdd.svg",
+    "static/media/Circle.svg": "/static/media/Circle.1be461f0baead3e707e6433158ccea9b.svg",
+    "index.html": "/index.html",
+    "main.929c5bc4.css.map": "/static/css/main.929c5bc4.css.map",
+    "main.a4b608d8.js.map": "/static/js/main.a4b608d8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.929c5bc4.css",
+    "static/js/main.a4b608d8.js"
+  ]
+}
